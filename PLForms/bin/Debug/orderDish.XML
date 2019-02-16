@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<order>
+  <dish>
+    <orderNumber>10000003</orderNumber>
+    <dishNumber>111</dishNumber>
+    <amountDish>4</amountDish>
+  </dish>
+  <dish>
+    <orderNumber>10000003</orderNumber>
+    <dishNumber>3</dishNumber>
+    <amountDish>5</amountDish>
+  </dish>
+  <dish>
+    <orderNumber>10000005</orderNumber>
+    <dishNumber>3</dishNumber>
+    <amountDish>9</amountDish>
+  </dish>
+</order>

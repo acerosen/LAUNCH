@@ -1,0 +1,44 @@
+﻿<Window x:Class="PLForms.testerlogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="tester login"  Height="700" Width="1200" >
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="Segoe Print" />
+            <Setter Property="Foreground" Value="#FFF9BB21"/>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+        <Style TargetType="Grid">
+        </Style>
+    </Window.Resources>
+    <Grid Margin="-150,0,-150,-17.5">
+        <Grid.Background>
+            <ImageBrush TileMode="FlipXY" ImageSource="images/testerlogin.jpg"  />
+        </Grid.Background>
+        <Button x:Name="DeleteTester" Content="            " Margin="659,477,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="DeleteTester_Click" Opacity="0.15" >
+            <Button.Effect>
+                <BlurEffect Radius="0" RenderingBias="Quality"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="UpdateTester" Content="            " Margin="659,407,0,0" Width="168" Height="56" FontSize="50"  RenderTransformOrigin="0.5,0.5" Click="UpdateTester_Click" Opacity="0.15" >
+            <Button.Effect>
+                <BlurEffect Radius="0" RenderingBias="Quality"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="AddTester" Content="            " Margin="659,338,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="AddTester_Click" Opacity="0.15" >
+            <Button.Effect>
+                <BlurEffect Radius="0" RenderingBias="Quality"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="exit" Content="Exit" HorizontalAlignment="Center" Margin="656,596,659,0" Width="180" Height="90" Click="exit_Click" FontFamily="Verdana" />
+        <Button x:Name="button" Content="All" HorizontalAlignment="Left" Margin="713,538,0,0" VerticalAlignment="Top" Width="75" FontFamily="Verdana"/>
+    </Grid>
+</Window>

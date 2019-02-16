@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testeres>
+  <Tester>
+    <TesterID>212431886</TesterID>
+    <FamilyName>Bassin</FamilyName>
+    <FirstName>Yoel</FirstName>
+    <Birthday>1111-11-11T00:00:00</Birthday>
+    <Gender />
+    <PhoneNum>543406305</PhoneNum>
+    <Address />
+    <Experience>20</Experience>
+    <MaxTestAmt>20</MaxTestAmt>
+    <Model>sdck</Model>
+    <MaxDist>2</MaxDist>
+  </Tester>
+  <Tester>
+    <TesterID>0</TesterID>
+    <FamilyName />
+    <FirstName />
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <gender>man</gender>
+    <PhoneNum>2</PhoneNum>
+    <Address>3</Address>
+    <Experience>0</Experience>
+    <MaxTestAmt>0</MaxTestAmt>
+    <Model />
+    <MaxDist>0</MaxDist>
+  </Tester>
+  <Tester>
+    <TesterID>9293883</TesterID>
+    <FamilyName>clkc</FamilyName>
+    <FirstName>dsnl</FirstName>
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <gender>man</gender>
+    <PhoneNum>534659483</PhoneNum>
+    <Address>fk;lew</Address>
+    <Experience>13</Experience>
+    <MaxTestAmt>32</MaxTestAmt>
+    <Model>dsf</Model>
+    <MaxDist>23</MaxDist>
+  </Tester>
+  <Tester>
+    <TesterID>212431888</TesterID>
+    <FamilyName>Bassin</FamilyName>
+    <FirstName>Yoel</FirstName>
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <gender>man</gender>
+    <PhoneNum>543406305</PhoneNum>
+    <Address>dgfg</Address>
+    <Experience>23</Experience>
+    <MaxTestAmt>223</MaxTestAmt>
+    <Model>A</Model>
+    <MaxDist>23</MaxDist>
+    <Start>5</Start>
+    <Finish>17</Finish>
+  </Tester>
+</testeres>

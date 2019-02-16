@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dishes>
+  <dish>
+    <dishId>111</dishId>
+    <dishName>piza</dishName>
+    <dishPrice>8</dishPrice>
+    <dishSize>medum</dishSize>
+    <hechsher>ordinary</hechsher>
+  </dish>
+  <dish>
+    <dishId>3</dishId>
+    <dishName>fish</dishName>
+    <dishPrice>15</dishPrice>
+    <dishSize>small</dishSize>
+    <hechsher>ordinary</hechsher>
+  </dish>
+  <dish>
+    <dishId>1111</dishId>
+    <dishName>pasta</dishName>
+    <dishPrice>20</dishPrice>
+    <dishSize>large</dishSize>
+    <hechsher>extra</hechsher>
+  </dish>
+  <dish>
+    <dishId>444</dishId>
+    <dishName>ice cream</dishName>
+    <dishPrice>9</dishPrice>
+    <dishSize>small</dishSize>
+    <hechsher>extra</hechsher>
+  </dish>
+</dishes>

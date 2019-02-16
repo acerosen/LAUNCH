@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<traineees>
+  <trainee>
+    <branchNumber>212431886</branchNumber>
+    <FirstName>yoel</FirstName>
+    <FamilyName>Bassin</FamilyName>
+    <Gender>man</Gender>
+    <PhoneNum>543406305</PhoneNum>
+    <Address />
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <Model>A</Model>
+    <GearType>automatic</GearType>
+    <School>A</School>
+    <TeacherName>A</TeacherName>
+    <LessonAMT>53</LessonAMT>
+  </trainee>
+  <trainee>
+    <branchNumber>6387162</branchNumber>
+    <FirstName>sdfkskd</FirstName>
+    <FamilyName>jdsf</FamilyName>
+    <Gender>man</Gender>
+    <PhoneNum>123</PhoneNum>
+    <Address>kfsdf</Address>
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <Model>dsf</Model>
+    <GearType>automatic</GearType>
+    <School>sdf</School>
+    <TeacherName>sf</TeacherName>
+    <LessonAMT>56</LessonAMT>
+  </trainee>
+</traineees>

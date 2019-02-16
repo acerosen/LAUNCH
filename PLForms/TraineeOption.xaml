@@ -1,0 +1,60 @@
+﻿<Window x:Class="PLForms.traineelogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="traineelogin"  Height="700" Width="1200" >
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="Segoe Print" />
+            <Setter Property="Foreground" Value="#FFF9BB21"/>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+        <Style TargetType="Grid">
+        </Style>
+    </Window.Resources>
+    <Grid Margin="-150,0,-150,-17.5">
+        <Grid.Background>
+            <ImageBrush TileMode="FlipXY" ImageSource="images/traineelogin.jpg"  />
+        </Grid.Background>
+        <Button x:Name="DeleteTrainee" Content="            " Margin="559,504,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="DeleteTrainee_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="UpdateTrainee" Content="            " Margin="559,434,0,0" Width="168" Height="56" FontSize="50"  RenderTransformOrigin="0.5,0.5" Click="UpdateTrainee_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="AddTrainee" Content="            " Margin="559,365,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="AddTrainee_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="exit" Content="Exit" HorizontalAlignment="Center" Margin="660,578,655,0" Width="180" Height="90" Click="Exit_Click" FontFamily="Verdana" />
+        <Button x:Name="DeleteTest" Content="            " Margin="769,504,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="DeleteTest_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="UpdateTest" Content="            " Margin="769,434,0,0" Width="168" Height="56" FontSize="50"  RenderTransformOrigin="0.5,0.5" Click="UpdateTest_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="AddTest" Content="            " Margin="769,365,0,0" Width="168" Height="56" RenderTransformOrigin="0.5,0.5" Click="AddTest_Click" Opacity="0.15">
+            <Button.Effect>
+                <BlurEffect Radius="0"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="All1" Content="All" HorizontalAlignment="Left" Margin="607,590,0,0" VerticalAlignment="Top" Width="79" Click="Button_Click" FontFamily="Verdana"/>
+        <Button x:Name="All2" Content="All" HorizontalAlignment="Left" Margin="813,590,0,0" VerticalAlignment="Top" Width="91" Click="Button1_Click" FontFamily="Verdana"/>
+    </Grid>
+</Window>
