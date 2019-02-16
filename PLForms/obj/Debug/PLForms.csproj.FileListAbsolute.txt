@@ -1,0 +1,932 @@
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\orderOption.baml
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\orderOption.g.cs
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+D:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+D:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+D:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\USERS\OWNER\Desktop\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+D:\USERS\OWNER\Desktop\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+D:\USERS\OWNER\Desktop\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\153007.5776 - מיני פרויקט במערכות חלונות - ב - אב-פרויקט חלק 2-214246\jj\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\user\Downloads\153007.5776 - מיני פרויקט במערכות חלונות - ב - אב-פרויקט חלק 2-214246\jj\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\user\Downloads\153007.5776 - מיני פרויקט במערכות חלונות - ב - אב-פרויקט חלק 2-214246\jj\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+F:\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrder.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddOrderDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrder.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteOrderDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DishOption.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderDishOption.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\OrderOption.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\payments.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\ProfitByDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrder.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateOrderDish.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Profits.baml
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\יהב מולאים\Documents\proj_example2\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.baml
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\d\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.baml
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\copy D\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AddBranch.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\BranchOption.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\DeleteBranch.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\UpdateBranch.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.baml
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\New folder (3)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csprojAssemblyReference.cache
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AdminLogin.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\AddTrainee.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\DeleteTrainee.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\UpdateTrainee.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\AdminLogin.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\TesterLogin.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\AddTrainee.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\TraineeOption.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\DeleteTrainee.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Trainee\UpdateTrainee.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\App.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.exe
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\PLForms.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.dll
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.dll
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.dll
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BE.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\BL.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DAL.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.pdb
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.dll.config
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\bin\Debug\DS.exe.config
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\TesterLogin.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\TraineeOption.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\MainWindow.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window1.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.GenerateResource.cache
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\PLForms.csproj.CopyComplete
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\AddTester.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\UpdateTester.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\AddTester.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\UpdateTester.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\DeleteTester.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Tester\DeleteTester.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window2.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window2.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Test\AddTest.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Test\AddTest.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Test\DeleteTest.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Test\DeleteTest.baml
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window3.g.cs
+C:\Users\yoel bassin\Desktop\New folder (5)\dish-dotNet5776_Project01_8501_8622\PLForms\obj\Debug\Window3.baml
